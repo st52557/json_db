@@ -1,4 +1,5 @@
-[
+{
+  "movies": [
     {
       "id": 1,
       "movieTitle": "Tmavomodry svet",
@@ -30,3 +31,4 @@
       "movieYear": 2007
     }
   ]
+}
