@@ -1,16 +1,6 @@
 {
   "movies": [
     {
-      "id": 1,
-      "movieTitle": "Tmavomodry svet",
-      "movieYear": 2010
-    },
-    {
-      "id": 2,
-      "movieTitle": "Kod enigmy",
-      "movieYear": 2016
-    },
-    {
       "id": 5,
       "movieTitle": "Inglorious bastards",
       "movieYear": 2009
